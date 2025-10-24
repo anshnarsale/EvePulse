@@ -1,1 +1,1 @@
-{"update":2,"timestamp":"2025-10-21T12:14:59+05:30","msg":"feat(db): add indexes on timestamp and severity columns for fast queries"}
+{"update":3,"timestamp":"2025-10-24T18:18:32+05:30","msg":"feat(db): add get_statistics aggregator for SOC metrics"}
