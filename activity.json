@@ -1,1 +1,1 @@
-{"update":6,"timestamp":"2025-11-02T15:36:16+05:30","msg":"feat(export): add JSON export utility for incident reports"}
+{"update":7,"timestamp":"2025-11-07T16:46:27+05:30","msg":"feat(export): add RFC 4180 compliant CSV alert export"}
