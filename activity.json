@@ -1,1 +1,1 @@
-{"update":7,"timestamp":"2025-11-07T16:46:27+05:30","msg":"feat(export): add RFC 4180 compliant CSV alert export"}
+{"update":8,"timestamp":"2025-11-10T19:39:24+05:30","msg":"feat(export): implement Common Event Format (CEF) for SIEM ingest"}
