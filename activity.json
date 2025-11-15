@@ -1,1 +1,1 @@
-{"update":8,"timestamp":"2025-11-10T19:39:24+05:30","msg":"feat(export): implement Common Event Format (CEF) for SIEM ingest"}
+{"update":9,"timestamp":"2025-11-15T11:16:21+05:30","msg":"feat(export): generate executive incident summary in Markdown"}
