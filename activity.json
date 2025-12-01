@@ -1,1 +1,1 @@
-{"update":12,"timestamp":"2025-11-30T13:23:56+05:30","msg":"feat(notifier): support severity threshold filtering for webhooks"}
+{"update":13,"timestamp":"2025-12-01T20:12:43+05:30","msg":"fix(notifier): add 5s timeout and exception handling for webhook dispatch"}
