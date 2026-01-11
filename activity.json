@@ -1,1 +1,1 @@
-{"update":26,"timestamp":"2026-01-11T11:32:01+05:30","msg":"feat(cli): add --replay and --export-report command line options"}
+{"update":27,"timestamp":"2026-01-11T11:47:33+05:30","msg":"refactor(watch): integrate EventDatabase and RuleConfig into main loop"}
