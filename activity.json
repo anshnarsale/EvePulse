@@ -1,1 +1,1 @@
-{"update":28,"timestamp":"2026-01-13T16:14:13+05:30","msg":"fix(watch): sanitize input domain and handle URI parsing edge cases"}
+{"update":29,"timestamp":"2026-01-13T16:23:42+05:30","msg":"perf(watch): optimize history sliding window cleanup logic"}
