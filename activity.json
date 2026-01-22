@@ -1,1 +1,1 @@
-{"update":35,"timestamp":"2026-01-22T10:33:22+05:30","msg":"test: add demo test suite with simulated EVE events"}
+{"update":36,"timestamp":"2026-01-22T14:53:14+05:30","msg":"fix(watch): prevent duplicate alert spam within 30-second window"}
