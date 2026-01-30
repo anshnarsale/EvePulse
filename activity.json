@@ -1,1 +1,1 @@
-{"update":39,"timestamp":"2026-01-28T13:12:36+05:30","msg":"docs: document CEF format specification in export module"}
+{"update":40,"timestamp":"2026-01-30T09:41:05+05:30","msg":"feat(db): initialize SQLite event and alert persistence layer"}
