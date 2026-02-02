@@ -1,1 +1,1 @@
-{"update":42,"timestamp":"2026-02-02T11:52:25+05:30","msg":"feat(db): add get_statistics aggregator for SOC metrics"}
+{"update":43,"timestamp":"2026-02-02T16:14:55+05:30","msg":"feat(db): support raw_json payload caching in events table"}
