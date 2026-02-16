@@ -1,1 +1,1 @@
-{"update":49,"timestamp":"2026-02-15T12:24:24+05:30","msg":"fix(export): handle empty alert lists gracefully without throwing"}
+{"update":50,"timestamp":"2026-02-16T11:49:12+05:30","msg":"feat(notifier): add alert dispatcher with Discord and Slack formatting"}
