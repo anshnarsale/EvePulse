@@ -1,1 +1,1 @@
-{"update":50,"timestamp":"2026-02-16T11:49:12+05:30","msg":"feat(notifier): add alert dispatcher with Discord and Slack formatting"}
+{"update":51,"timestamp":"2026-02-16T12:21:04+05:30","msg":"feat(notifier): support severity threshold filtering for webhooks"}
