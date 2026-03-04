@@ -1,1 +1,1 @@
-{"update":63,"timestamp":"2026-03-01T11:12:22+05:30","msg":"feat(replay): support max_events batch limiter for offline audits"}
+{"update":64,"timestamp":"2026-03-04T17:43:47+05:30","msg":"feat(cli): add --db, --web, --webhook, and --rules flags"}
