@@ -1,1 +1,1 @@
-{"update":66,"timestamp":"2026-03-09T16:33:44+05:30","msg":"refactor(watch): integrate EventDatabase and RuleConfig into main loop"}
+{"update":67,"timestamp":"2026-03-10T16:16:54+05:30","msg":"fix(watch): sanitize input domain and handle URI parsing edge cases"}
