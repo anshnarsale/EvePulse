@@ -1,0 +1,40 @@
+{
+  "thresholds": {
+    "burst_events": 12,
+    "burst_domains": 6,
+    "burst_window_seconds": 60,
+    "auth_event_threshold": 8,
+    "low_cutoff": 4,
+    "medium_cutoff": 9
+  },
+  "scores": {
+    "ioc_domain": 6,
+    "auth_keyword": 2,
+    "burst_anomaly": 5,
+    "auth_burst": 3,
+    "suricata_alert": 10
+  },
+  "whitelisted_ips": [
+    "127.0.0.1",
+    "::1"
+  ],
+  "custom_keywords": [
+    "otp",
+    "verify",
+    "verification",
+    "one-time",
+    "one_time",
+    "sms",
+    "call",
+    "login",
+    "register",
+    "authenticate",
+    "auth",
+    "password",
+    "passcode",
+    "code",
+    "mfa",
+    "2fa",
+    "token"
+  ]
+}

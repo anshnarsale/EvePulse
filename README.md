@@ -282,15 +282,25 @@ TIME       SOURCE          DESTINATION       TYPE    RISK
 ## Project Structure
 
 ```
-net-otp-watch/
-├── watch.py
-├── run.sh
-├── install.sh
-├── README.md
+EvePulse/
+├── watch.py                   # Main monitoring daemon & CLI
+├── run.sh                     # Launch wrapper
+├── install.sh                 # Environment setup script
+├── README.md                  # Project documentation
+├── evepulse/                  # Modular detection & analytics package
+│   ├── __init__.py            # Package metadata & version
+│   ├── db.py                  # SQLite storage & metrics layer
+│   ├── export.py              # JSON, CSV, CEF, Markdown report exporters
+│   ├── notifier.py            # Discord & Slack alert dispatcher
+│   ├── rules.py               # Custom rules & scoring engine
+│   ├── replay.py              # Offline forensics & log replay
+│   └── web.py                 # Embedded SOC web dashboard & REST API
 ├── data/
-│   └── indicators.json
+│   ├── indicators.json        # Threat intelligence IOC domains
+│   └── evepulse.db            # Persistent event & alert database
 └── rules/
-    └── local.rules
+    ├── local.rules            # Suricata signature rules
+    └── custom_rules.json      # Configurable detection thresholds & keywords
 ```
 
 ---
@@ -370,13 +380,13 @@ Tune the rules for your own authorized environment.
 - [x] Risk scoring
 - [x] Live terminal dashboard
 - [x] Demo mode
-- [ ] Historical statistics
-- [ ] Alert export
-- [ ] PCAP analysis
-- [ ] Email/desktop notifications
-- [ ] SQLite event database
-- [ ] Web dashboard
-- [ ] Custom detection rules
+- [x] Historical statistics & metrics aggregation
+- [x] Multi-format alert export (JSON, CSV, CEF for SIEMs)
+- [x] Offline EVE log replay & forensics analysis
+- [x] Discord / Slack alert webhooks
+- [x] SQLite persistent event & alert database
+- [x] Embedded SOC Web Dashboard & REST API (`http://127.0.0.1:8088`)
+- [x] Custom detection rules & threshold configuration
 
 ---
 
