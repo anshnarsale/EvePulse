@@ -1,1 +1,1 @@
-{"update":72,"timestamp":"2026-03-21T15:39:03+05:30","msg":"chore: bump version to v0.3.0"}
+{"update":73,"timestamp":"2026-04-04T09:47:49+05:30","msg":"chore: configure .gitignore for sqlite db and temp files"}
