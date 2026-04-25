@@ -1,1 +1,1 @@
-{"update":79,"timestamp":"2026-04-24T16:54:18+05:30","msg":"feat(db): initialize SQLite event and alert persistence layer"}
+{"update":80,"timestamp":"2026-04-25T12:56:37+05:30","msg":"feat(db): add indexes on timestamp and severity columns for fast queries"}
