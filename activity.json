@@ -1,1 +1,1 @@
-{"update":91,"timestamp":"2026-05-26T10:22:48+05:30","msg":"fix(notifier): add 5s timeout and exception handling for webhook dispatch"}
+{"update":92,"timestamp":"2026-05-29T09:16:15+05:30","msg":"feat(rules): add configurable RuleConfig with custom_rules.json"}
