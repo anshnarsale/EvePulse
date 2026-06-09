@@ -1,1 +1,1 @@
-{"update":95,"timestamp":"2026-06-06T09:19:24+05:30","msg":"refactor(rules): decouple hardcoded constants into rule engine"}
+{"update":96,"timestamp":"2026-06-09T10:24:36+05:30","msg":"feat(web): add embedded zero-dependency SOC terminal web UI"}
