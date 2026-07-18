@@ -1,1 +1,1 @@
-{"update":114,"timestamp":"2026-07-16T19:34:23+05:30","msg":"fix(watch): prevent duplicate alert spam within 30-second window"}
+{"update":115,"timestamp":"2026-07-18T16:07:29+05:30","msg":"feat(rules): add 2fa and mfa to keyword detection list"}
