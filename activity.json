@@ -1,1 +1,1 @@
-{"update":121,"timestamp":"2026-08-04T13:50:17+05:30","msg":"feat(db): support raw_json payload caching in events table"}
+{"update":122,"timestamp":"2026-08-05T21:15:15+05:30","msg":"fix(db): ensure parent directory exists when initializing database"}
