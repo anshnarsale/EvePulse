@@ -1,1 +1,1 @@
-{"update":122,"timestamp":"2026-08-05T21:15:15+05:30","msg":"fix(db): ensure parent directory exists when initializing database"}
+{"update":123,"timestamp":"2026-08-06T12:50:02+05:30","msg":"feat(export): add JSON export utility for incident reports"}
