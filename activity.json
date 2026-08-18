@@ -1,1 +1,1 @@
-{"update":126,"timestamp":"2026-08-13T14:53:41+05:30","msg":"feat(export): generate executive incident summary in Markdown"}
+{"update":127,"timestamp":"2026-08-18T10:45:04+05:30","msg":"fix(export): handle empty alert lists gracefully without throwing"}
