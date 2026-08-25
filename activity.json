@@ -1,1 +1,1 @@
-{"update":131,"timestamp":"2026-08-24T18:47:23+05:30","msg":"feat(rules): add configurable RuleConfig with custom_rules.json"}
+{"update":132,"timestamp":"2026-08-25T19:19:36+05:30","msg":"feat(rules): support custom behavioral keywords and IP whitelist"}
