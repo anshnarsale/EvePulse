@@ -1,1 +1,1 @@
-{"update":135,"timestamp":"2026-09-01T13:57:26+05:30","msg":"feat(web): add embedded zero-dependency SOC terminal web UI"}
+{"update":136,"timestamp":"2026-09-02T12:05:13+05:30","msg":"feat(web): add /api/stats, /api/alerts, /api/events REST endpoints"}
