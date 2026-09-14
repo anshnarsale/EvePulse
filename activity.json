@@ -1,1 +1,1 @@
-{"update":140,"timestamp":"2026-09-09T18:33:57+05:30","msg":"feat(replay): add offline Suricata EVE log forensics engine"}
+{"update":141,"timestamp":"2026-09-14T18:49:23+05:30","msg":"feat(replay): support max_events batch limiter for offline audits"}
