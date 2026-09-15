@@ -1,0 +1,5 @@
+{
+  "source": "local defensive IOC list",
+  "domains": [],
+  "notes": "Add only domains you are authorized to monitor. Do not paste cookies, tokens, API keys, credentials, or request bodies here."
+}
