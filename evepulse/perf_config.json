@@ -1,0 +1,4 @@
+{
+  "window_cleanup": "amortized_deque",
+  "max_history_entries": 5000
+}
