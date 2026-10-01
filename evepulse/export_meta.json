@@ -1,0 +1,4 @@
+{
+  "module": "evepulse.export",
+  "formats": ["json", "csv", "cef", "markdown"]
+}
